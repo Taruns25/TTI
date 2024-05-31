@@ -1,0 +1,30 @@
+
+
+### Kannada (Kannada script: ಕನ್ನಡ)
+1. **ಕೆಂಪು ಟೀ ಶರ್ಟ್ ಧರಿಸಿದ ಹುಡುಗ** - A boy wearing a red T-shirt
+2. **ಕಪ್ಪು ಬಣ್ಣದ ಬೆಕ್ಕು** - A black cat
+3. **ಹೂವಿನ ತೋಟ** - A garden of flowers
+4. **ಓಡುತ್ತಿರುವ ಮನುಷ್ಯ** - A person running
+5. **ಬೆಳಗಿನ ಸೂರ್ಯೋದಯ** - Morning sunrise
+
+### Tamil (Tamil script: தமிழ்)
+6. **சிகப்பு சட்டை அணிந்த சிறுவன்** - A boy wearing a red shirt
+7. **கருப்பு நிற பூனை** - A black cat
+8. **மலர்வளம்** - A garden of flowers
+9. **ஓடிக்கொண்டிருக்கும் மனிதர்** - A person running
+10. **காலை சூரிய உதயம்** - Morning sunrise
+
+### Telugu (Telugu script: తెలుగు)
+11. **ఎర్ర టీ షర్ట్ ధరించిన బాలుడు** - A boy wearing a red T-shirt
+12. **నల్ల పిల్లి** - A black cat
+13. **పూల తోట** - A garden of flowers
+14. **పరుగెత్తుతున్న వ్యక్తి** - A person running
+15. **ఉదయపు సూర్యోదయం** - Morning sunrise
+
+### Malayalam (Malayalam script: മലയാളം)
+16. **ചുവപ്പ് ടി ഷർട്ട് ധരിച്ച കുട്ടി** - A boy wearing a red T-shirt
+17. **കറുത്ത പൂച്ച** - A black cat
+18. **പൂക്കളുടെ തോട്ടം** - A garden of flowers
+19. **ഓടുന്ന ആളു** - A person running
+20. **രാവിലെ സൂര്യോദയം** - Morning sunrise
+
